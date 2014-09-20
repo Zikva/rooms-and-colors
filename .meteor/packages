@@ -9,4 +9,5 @@ accounts-ui
 accounts-google
 accounts-facebook
 iron:router
+iron:layout
 

@@ -4,3 +4,7 @@ Router.map(function() {
 		path : '/'
 	})
 });
+
+Router.configure({
+	layoutTemplate: 'mainLayout'
+});
