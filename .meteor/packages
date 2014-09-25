@@ -10,4 +10,5 @@ accounts-google
 accounts-facebook
 iron:router
 iron:layout
+mizzao:bootstrap-3
 
